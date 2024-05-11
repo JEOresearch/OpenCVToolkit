@@ -1,6 +1,8 @@
 # OpenCVToolkit
 A toolkit that allows you to test various OpenCV image processing functions in real time
 
+Basic usage is shown here: https://youtu.be/9vVMupPmk1g
+
 This tool allows you to learn about and experiment with different OpenCV functions. You can specify a path to a video in the code, or it will default to a Webcam feed if it doesn't find a video. 
 
 A graphical user interface (GUI) is provided that allows you to select image processing operations (in the order you select them). Users can dynamically select various operations like thresholding, edge detection, and more, and adjust their parameters in real-time.
