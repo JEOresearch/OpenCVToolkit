@@ -12,7 +12,7 @@ class App:
         self.active_operations = []
         
         # Specify the path to the video file
-        video_path = "C:/Storage/Source Videos/cat2.mp4"  # Update this path as needed
+        video_path = "C:/Storage/Source Videos/cat.mp4"  # Update this path as needed
 
         # Try to open the video file first
         self.vid = cv2.VideoCapture(video_path)
