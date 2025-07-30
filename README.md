@@ -5,6 +5,8 @@ Basic usage is shown here: https://youtu.be/9vVMupPmk1g
 
 This tool allows you to learn about and experiment with different OpenCV functions. You can specify a path to a video in the code, or it will default to a Webcam feed if it doesn't find a video. 
 
+To help support this software and other open-source projects, please consider subscribing to my YouTube channel: https://www.youtube.com/@jeoresearch, or joining for $1 per month: https://www.youtube.com/@jeoresearch/join. 
+
 A graphical user interface (GUI) is provided that allows you to select image processing operations (in the order you select them). Users can dynamically select various operations like thresholding, edge detection, and more, and adjust their parameters in real-time.
 
 OpenCV Features
